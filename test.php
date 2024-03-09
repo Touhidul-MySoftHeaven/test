@@ -24,3 +24,4 @@ for($i=0;$i<$k;$i++)
 }  
 echo "ada";
 echo $i;
+echo "Asa";
